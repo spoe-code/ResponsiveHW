@@ -38,6 +38,11 @@ p {
   text-align: center;
 }
 
+footer {
+  margin: 5%;
+  text-align: center;
+}
+
 .navigation-links {
   display: flex;
   margin-top: 40px;
